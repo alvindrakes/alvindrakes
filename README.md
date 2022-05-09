@@ -2,8 +2,8 @@
 > \- Marcus Aurelius
 
 
-- 🔭 I’m currently working on: Flutter mobile apps
-- 🌱 I’m currently learning: Graphql, VueJS, Machine learning  
+- 🔭 I’m currently working on: Flutter mobile apps, 3D websites
+- 🌱 I’m currently learning: React Three Fiber, Machine learning  
 - ⚡ Fun fact: I love to observe the world around me, like how coffee is poured into a cup, how people talk to each other etc. It gives purpose to life. 
 
 ### Languages and Tools:

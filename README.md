@@ -25,6 +25,7 @@
 <img align="left" alt="TailwindCss" width="26px" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4" />
 <img align="left" alt="Shadcn-ui" width="26px" src="https://avatars.githubusercontent.com/u/139895814?s=48&v=4" />
 <img align="left" alt="Hono" width="26px" src="https://avatars.githubusercontent.com/u/98495527?s=48&v=4" />
+<img align="left" alt="Graphql" width="26px" src="https://avatars.githubusercontent.com/u/12972006?s=48&v=4" />
 <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <br/>

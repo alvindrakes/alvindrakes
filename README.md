@@ -11,7 +11,8 @@
 2. Beauty services
 3. Crypto / Fintech
 4. Ecommerce
-5. Golf
+5. Education
+6. Golf
 
 
 ### Languages and Tools:

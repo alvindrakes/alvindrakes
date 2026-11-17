@@ -2,14 +2,14 @@
 > \- Marcus Aurelius
 
 
-- 🔭 I’m currently working on: Flutter mobile apps, 3D websites and motion design
-- 🌱 I’m currently learning: React Three Fiber, Machine learning, AWS  
+- 🔭 I’m currently working on: RWA tokenization, Flutter mobile apps, 3D websites and motion design
+- 🌱 I’m currently learning: LLM, System Design
 - ⚡ Fun fact: I love design and art. Therefore, I am also a CGI artist who mainly works with Houdini to create beautifully crafted motions. Bridging the art and the science, like the Renaissance. 
 
 ### Industries that I have been involved in:
 1. Healthcare
 2. Beauty services
-3. Crypto / Fintech
+3. RWA Tokenization / Fintech
 4. Ecommerce
 5. Education
 6. Golf
